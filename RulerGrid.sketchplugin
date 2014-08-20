@@ -1,5 +1,6 @@
-// Keyboard shortcut: command + shift + R
-// This plugin was built by Ryan Langlois
+// RulerGrid - github.com/rlanglois/RulerGrid
+// By Ryan Langlois - ryanfromottawa.com
+// Easily create ruler-based grids in Sketch
 
 var grid_width = [[doc askForUserInput:"How wide do you want your grid to be?" initialValue:"960"] integerValue]
 var column_count = [[doc askForUserInput:"How many columns do you want?" initialValue:"12"] integerValue]
