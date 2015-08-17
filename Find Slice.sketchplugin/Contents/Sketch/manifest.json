@@ -1,0 +1,23 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "Find Slice",
+      "identifier" : "find slice"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "find slice"
+    ],
+    "title" : "Find Slice"
+  },
+  "identifier" : "com.example.sketch.86efbac1-f1d6-45b9-a94e-e27f4f4c7c64",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "Find Slice"
+}
