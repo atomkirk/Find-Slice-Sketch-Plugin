@@ -1,10 +1,10 @@
 {
-  "author" : "",
+  "author" : "Adam Kirk",
   "commands" : [
     {
       "script" : "script.cocoascript",
       "handler" : "onRun",
-      "shortcut" : "",
+      "shortcut" : "cmd e",
       "name" : "Find Slice",
       "identifier" : "find slice"
     }
@@ -13,11 +13,11 @@
     "items" : [
       "find slice"
     ],
-    "title" : "Find Slice"
+    "isRoot": true
   },
   "identifier" : "com.example.sketch.86efbac1-f1d6-45b9-a94e-e27f4f4c7c64",
   "version" : "1.0",
-  "description" : "",
-  "authorEmail" : "",
+  "description" : "List all exportable layers/slices and navigate to selection.",
+  "authorEmail" : "atomkirk@gmail.com",
   "name" : "Find Slice"
 }
